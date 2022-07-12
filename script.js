@@ -177,3 +177,4 @@ const calcAverageHumanAge = function (ages) {
 };
 
 calcAverageHumanAge(ages1);
+// console.log();
